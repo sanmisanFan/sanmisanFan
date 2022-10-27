@@ -7,7 +7,7 @@
 - Data mining & machine learning
   - Social computing
   - NLP in HCI
-  - Graphy analysis
+  - Graph analysis
 
 
 <!---
